@@ -8,31 +8,33 @@
 ---
 
 ### 💻 About Me
+I engineer systems at the intersection of software and hardware. My focus is on creating minimalist, efficient, and robust solutions—whether that involves designing full-stack web architectures or calibrating physical hardware for industrial production.
 
-I build systems that bridge software and hardware. From developing full-stack web architectures like the RACI-based project management tool **Piyons**, to engineering autonomous underwater vehicles (**Avgı**) with the Talay team, I focus on minimalist, efficient, and robust solutions.
-
-*   🔭 Currently working as an intern at **Devri Robotik** and preparing for my upcoming internship at **Yente Makine**.
-*   🌱 Co-founder of **SEY 3D**, focusing on industrial prototyping and additive manufacturing.
-*   💡 Passionate about clean code, autonomous systems, and functional design.
+* 🔭 **What I've Built & Currently Working On:** * Developing control systems and programming embedded hardware for autonomous vehicles.
+    * Designing and building full-stack architectures and scalable SaaS tools.
+    * Executing industrial prototyping and hardware-level manufacturing processes.
+* 🌱 **What I'm Exploring Next:** * So far, my hands-on experience has been heavily rooted in embedded systems and full-stack development. While I haven't locked in a single long-term specialization just yet, I am eager to expand my horizons and explore broader, core computer science domains like Artificial Intelligence (Neural Networks) and Cybersecurity.
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
+**Languages:**
 <p align="left">
-  <!-- Programlama ve Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-<h3 align="left">⚙️ Programs & Hardware:</h3>
+**Programs:**
 <p align="left">
-  <!-- Donanım, Araçlar ve Versiyon Kontrol -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_Fusion-ff7a00?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ---
@@ -48,7 +50,5 @@ I build systems that bridge software and hardware. From developing full-stack we
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/a-ekrem-doyran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/ekremdoyran" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:abdullah.doyran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
