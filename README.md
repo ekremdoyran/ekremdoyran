@@ -40,10 +40,10 @@ I build systems that bridge software and hardware. From developing full-stack we
 
 ### 📊 GitHub İstatistikleri
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true)](https://github.com/a-ekrem-doyran)
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-ekrem-doyran&theme=transparent)](https://github.com/a-ekrem-doyran)
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-ekrem-doyran&theme=dark&hide_border=true" alt="Profile Details" />
+</p>
 
 ---
 
