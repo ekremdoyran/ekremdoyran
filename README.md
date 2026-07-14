@@ -14,7 +14,7 @@
 ### 💻 About Me
 I engineer systems at the intersection of software and hardware. My focus is on creating minimalist, efficient, and robust solutions—whether that involves designing full-stack web architectures or calibrating physical hardware for industrial production.
 
-* 🔭 **What I've Built & Currently Working On:**
+🔭 **What I've Built & Currently Working On:**
     * Developing control systems and programming embedded hardware for autonomous vehicles.
     * Designing and building full-stack architectures and scalable SaaS tools.
     * Executing industrial prototyping and hardware-level manufacturing processes.
@@ -49,13 +49,6 @@ I engineer systems at the intersection of software and hardware. My focus is on 
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ekremdoyran&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
@@ -63,5 +56,4 @@ I engineer systems at the intersection of software and hardware. My focus is on 
   <a href="mailto:abdullah.doyran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-ekrem-doyran) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aekremdoyran) 
 
